@@ -109,10 +109,10 @@ https://public.tableau.com/views/Bellabeat_Case_Study_17857109906250/SleepWellne
 
 ## Project Files
 
-- `data/` — Cleaned datasets used for analysis
-- `tableau/` — Tableau packaged workbook
-- `images/` — Dashboard screenshots
-- `report/` — Full case study report
+- [📁 Data](./data/) — Cleaned datasets used for analysis
+- [📁 Tableau](./tableau/) — Tableau packaged workbook
+- [📁 Images](./images/) — Dashboard screenshots
+- [📁 Report](./report/) — Full case study report
 
 ## Author
 
