@@ -64,18 +64,19 @@ The analysis focused on:
 
 ### User Activity Analysis
 
-![Bellabeat User Activity Dashboard](<img width="1165" height="680" alt="activity_dashboard" src="https://github.com/user-attachments/assets/d48c9414-090e-4b6b-96f3-f3d44d6e6e41" />
-)
+<img width="1165" height="680" alt="activity_dashboard" src="https://github.com/user-attachments/assets/95bb8f9a-4106-4f1f-a31b-bc5b9542e54f" />
+
 
 ### Sleep & Wellness Analysis
 
-![Bellabeat Sleep and Wellness Dashboard](images/sleep_wellness_dashboard.png)
+<img width="1185" height="678" alt="sleep_wellness_dashboard" src="https://github.com/user-attachments/assets/3e745270-ba09-4532-9073-49a39f0d0499" />
+
 
 ## Interactive Dashboard
 
 View the interactive Tableau dashboard here:
 
-[View Interactive Tableau Dashboard](PASTE-YOUR-TABLEAU-PUBLIC-LINK-HERE)
+https://public.tableau.com/views/Bellabeat_Case_Study_17857109906250/SleepWellnessDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Key Findings
 
